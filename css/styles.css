@@ -1235,7 +1235,7 @@ textarea {
 /* ------------------------------------------------------------------- 
  * ## small mobile devices <= 400px
  * ------------------------------------------------------------------- */
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
     .row .row {
         margin-left: 0;
         margin-right: 0;
@@ -1253,7 +1253,7 @@ textarea {
 
 
 
-/* ===================================================================
+/* =================================================================== */
  * # block grids
  *
  * -------------------------------------------------------------------
@@ -3942,7 +3942,7 @@ html.no-csstransitions .s-hero__content {
 
 @media screen and (max-width: 600px) {
     .s-hero__content h1 {
-        font-size: 28vw;
+        font-size: 15vw;
     }
     .s-hero__content-about {
         padding-right: 15vw;
@@ -4448,7 +4448,7 @@ html.no-csstransitions .s-hero__content {
 
 @media screen and (max-width: 600px) {
     .folio-item__thumb a::after {
-        font-size: 2rem;
+        font-size: 100rem;
     }
     .folio-item__title {
         font-size: 1.5rem;
