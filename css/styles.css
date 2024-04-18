@@ -3535,7 +3535,7 @@ input::-moz-focus-inner {
 }
 
 .s-hero__content h1 {
-    font-size: 15rem;
+    font-size: 10rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
@@ -4965,4 +4965,19 @@ html.no-csstransitions .s-hero__content {
     .ss-copyright {
         font-size: 1.4rem;
     }
+}
+
+video {
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.lma {
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
 }
